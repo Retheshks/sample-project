@@ -1,4 +1,4 @@
 def sample():
-	print("Hi")
+	print("Hi Welcome to class")
 
 sample()
